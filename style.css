@@ -1,0 +1,18 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: whitesmoke;
+    background: rgb(82, 82, 82)
+  }
+  
+  h1 {
+    padding-top: 20px;
+    margin: 0;
+    font-size: 28px;
+    color:rgba(62, 255, 229, 0.514);
+    text-align: left;
+  }
+
